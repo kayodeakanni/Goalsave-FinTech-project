@@ -193,7 +193,7 @@ Status Codes used: `200, 201, 400, 401, 403, 404, 500`
 
 ### Setup & Run Locally
 *1. Install dependencies*
-git clone <repo-url>
+git clone https://github.com/kayodeakanni/Goalsave-FinTech-project/edit/main/README.md
 cd goalsave-api
 npm install
 *2. Create .env*
