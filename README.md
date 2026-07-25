@@ -198,9 +198,9 @@ cd goalsave-api
 npm install
 *2. Create .env*
 PORT=5000
-MONGO_URI=mongodb+srv://<user>:<pass>@cluster.mongodb.net/goalsave
-JWT_SECRET=supersecretkey123
-NODE_ENV=development
+MONGO_URI=****(((((((((*
+JWT_SECRET=*****(*(*******
+NODE_ENV=****&********&&^
 *3. Start server*
 npm run dev
 Server runs on `http://localhost:5000`
